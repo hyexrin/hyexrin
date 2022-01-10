@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **hyexrin/hyexrin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=hyexrin%20render&fontSize=90)
 
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/#)  [![CSS](https://img.shields.io/badge/CSS-ff867d?style=flat-square&logo=CSSWizardry&logoColor=black)](github.com/#) [![HTML](https://img.shields.io/badge/HTML-54e89b?style=flat-square&logo=HTML5&logoColor=black)](github.com/#)
 
